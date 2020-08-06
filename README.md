@@ -7,4 +7,8 @@ Comandos Basicos :
 
 git add
     commit 
-    status 
+    status
+    push 
+    config
+
+ 
